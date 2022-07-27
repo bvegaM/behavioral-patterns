@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<payments>
+    <employee>
+        <id>01</id>
+        <costumer>10</costumer>
+        <amount>150</amount>
+        <date>13/03/2015</date>
+    </employee>
+</payments>
